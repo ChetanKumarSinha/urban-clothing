@@ -1,5 +1,3 @@
 # urban-clothing
-E-commerce App
-
-![](https://github.com/ChetanKumarSinha/images/blob/master/crwn-lap.gif)
-![](https://github.com/ChetanKumarSinha/images/blob/master/crwn-mob.gif)
+A React based  E-commerce progressive Web Application which has Authentication, Database, CRUD and  Payment features fully functional in test mode.
+E-commerce Website Link: https://cksurban-live.herokuapp.com/
